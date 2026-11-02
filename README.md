@@ -1,9 +1,6 @@
 # HotelPro – Hotel Booking and Management System
 
-**Project By:** Mayank Verma  
-**Email:** en24cs3010622@medicaps.ac.in  
-**University:** Medicaps University  
-**Project Type:** Academic Web Development Project
+
 
 ---
 
